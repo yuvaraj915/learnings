@@ -1,0 +1,16 @@
+ html{
+            font-size: 16px;
+            line-height: 1.5;
+            background-color: green;
+            color: whitesmoke;
+        } 
+
+      table, tr, th, td, caption{
+        border: 1px solid black;
+        font-family: 'Courier New', Courier, monospace;
+        border-collapse: collapse;
+        padding: 0.5px;
+      }
+        
+
+      
